@@ -1,1 +1,1 @@
-Step 4: Learn SQL
+Step 4: Learn SQL and NoSQL
