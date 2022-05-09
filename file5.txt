@@ -1,1 +1,2 @@
 New file on master branch
+Be sure to commit your changes
